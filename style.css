@@ -27,7 +27,7 @@ p{
     background-image: url(images/title-shoe.jpg);
     box-sizing: border-box;
     background-repeat: no-repeat;
-    background-position: 100% 100%;
+    background-position: center center;
     height: 580px;
     margin-top: 0px;
 }
@@ -73,7 +73,7 @@ p{
     background-image: url(images/women-shoe.jpg);
     background-repeat: no-repeat;
     height: 508px;
-    background-position: 100% 100%;
+    background-position: center center;
 }
 .product{
     display: flex;
@@ -141,9 +141,6 @@ p{
 .input-email{
     border-top-left-radius: 50px;
     border-bottom-left-radius: 50px;
-   
-}
-.input-email{
     border: none;
     background-color: #F4F4F4;
     padding: 4px 30px
@@ -153,7 +150,7 @@ p{
     border-top-right-radius: 50px ;
     border: none;
     font-size: 12px;
-    padding: 4px 30px
+    padding: 4px 30px;
 
 }
 .footer-section{
